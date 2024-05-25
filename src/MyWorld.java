@@ -1,6 +1,6 @@
 public class MyWorld {
     public static void main(String[] args) {
-Human h = new Human( "jack " , 1000);
+Human h = new Human( "jack " , 1000);g
     }
 }
 class Human{
